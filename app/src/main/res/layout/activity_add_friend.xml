@@ -16,7 +16,7 @@
         android:layout_alignParentRight="true"
         android:layout_centerHorizontal="true"
         android:layout_gravity="center"
-        android:text="Add Friend"
+        android:text="@string/add_friend"
         android:textSize="30sp" />
 
     <EditText
@@ -38,7 +38,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_gravity="center"
-        android:text="Find" />
+        android:text="@string/find" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/add_friends_recycler_view"

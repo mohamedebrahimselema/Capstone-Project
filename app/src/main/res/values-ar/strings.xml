@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">تاسكر</string>
+    <string name="personal_feed">مهمات شخصيه</string>
+    <string name="public_feed">مهمهات عامه</string>
+    <string name="title_calendar">منبه</string>
+    <string name="create">انشاء مهمه</string>
+    <string name="icon_description">Task creator\'s icon</string>
+    <string name="contacts">الاسماء</string>
+    <string name="title_activity_maps">خريطه</string>
+    <string name="tab_text_1">تسجيل</string>
+    <string name="tab_text_2">الدخول</string>
+    <string name="hello_blank_fragment">هاي يا شباب</string>
+    <string name="title_activity_login_screen">شاشه الدخول</string>
+    <string name="google_maps_key">AIzaSyDwM42eGcN2nLPGLa11y3fFIG55OGL28Wg</string>
+    <string name="task_name">اسم المهمه</string>
+    <string name="description">الوصف</string>
+    <string name="assign_to">مشار الي</string>
+    <string name="priority">اهميه</string>
+    <string name="completed_by">اكملت ب </string>
+    <string name="accept_task">اقبل المهمه</string>
+    <string name="logout">الخروج</string>
+    <string name="leave_task">مستوي المهمه</string>
+    <string name="set_creator">المخترع: %s</string>
+    <string name="set_deadline">اخر معاد : %s</string>
+    <string name="set_priority">الاهميه: %s</string>
+    <string name="set_description">الوصف: %s</string>
+    <string name="sort_by">البحث ب :</string>
+
+    <string name="facebook_app_id">2551450934892886</string>
+    <string name="fb_login_protocol_scheme">fb2551450934892886</string>
+    <string name="share_task">مشاركة</string>
+    <string name="location">الموقع</string>
+    <string name="task_location">مكان المهمه</string>
+    <string name="due_date">المعاد</string>
+
+    <string name="add_friends">اضافة اصدقاء</string>
+    <string name="add_friend">اضافة صديق</string>
+    <string name="find">بحث</string>
+</resources>
